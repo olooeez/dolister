@@ -1,0 +1,23 @@
+# Compiled binary files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Output files
+dolister
+*.out
+*.html
+
+# Dependency directories
+vendor/
+.idea/
+
+# Ignore any system-specific files or directories
+.DS_Store
+Thumbs.db
+
+# Ignore Go specific files
+.idea
+.vscode
